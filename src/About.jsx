@@ -9,7 +9,8 @@ class About extends Component{
                 <h1>Ali Raza</h1>
                 <h1>Ali Raza</h1>
                 <h1>Ali Raza</h1>
-                <h1>Ali Raza</h1>
+                <h1>Ali Raza f </h1>
+                <h1>Change</h1>
 
             </div>
         )
